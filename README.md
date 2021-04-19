@@ -8,5 +8,5 @@ title={SCOAT-Net: A novel network for segmenting COVID-19 lung opacification fro
 author={Shixuan Zhao, Zhidan Li, Yang Chen, Wei Zhao, Xingzhi Xie, Jun Liu, Di Zhao, and Yongjie Li},  
 journal={medRxiv},  
 year={2020},  
-doi={https://doi.org/10.1101/2020.09.23.20191726},  
+doi={10.1101/2020.09.23.20191726},   
 }
