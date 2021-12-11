@@ -8,6 +8,7 @@ All technical papers, documents, and reports which use this code need acknowledg
   title={SCOAT-Net: A novel network for segmenting COVID-19 lung opacification from CT images},  
   author={Shixuan Zhao, Zhidan Li, Yang Chen, Wei Zhao, Xingzhi Xie, Jun Liu, Di Zhao, and Yongjie Li},  
   journal={Pattern Recognition},  
+  volume={119},  
   year={2021},  
   doi={https://doi.org/10.1016/j.patcog.2021.108109},   
 }
