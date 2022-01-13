@@ -1,8 +1,8 @@
 # SCOAT-Net
-This is a spatial-and channel-wise coarse-to-fine attention network (SCOAT-Net) for segmentation.  
+This is a spatial-and channel-wise coarse-to-fine attention network (SCOAT-Net) for segmentation. The codes are also available for download on our homepage https://www.neuro.uestc.edu.cn/vccl/home.html.
   
 All technical papers, documents, and reports which use this code need acknowledge a citation to:  
-  
+
 ```bibtex
 @article{scoat_net,  
   title={SCOAT-Net: A novel network for segmenting COVID-19 lung opacification from CT images},  
